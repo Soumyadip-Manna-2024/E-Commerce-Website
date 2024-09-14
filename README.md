@@ -1,1 +1,3 @@
 # E-Commerce-Website
+E-Commerce Website is a modern online shopping platform designed to provide a seamless and intuitive shopping experience. The site features a user-friendly interface with easy navigation, a comprehensive product catalog, and secure checkout options. Key functionalities include advanced search and filtering, personalized recommendations, and responsive design for mobile and desktop users. Integrated with robust payment gateways and customer support tools, E-Commerce Website Name aims to deliver an efficient and enjoyable shopping experience for users while offering powerful management tools for administrators.
+
